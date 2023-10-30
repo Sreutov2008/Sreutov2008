@@ -28,14 +28,14 @@
     <a href="mailto:sreutov2008@yandex.ru">
       <img  
         alt="e-mail"
-        width="28px"
+        width="45px"
         src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
-      />
+      >
     </a>
     <a href="https://t.me/sreutov2008">
       <img
         alt="telegram"
-        width="26px"
+        width="45px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
       />
     </a>
