@@ -25,25 +25,19 @@
 
 <br />
   <ul>
-    <a href="mailto:mikushnerev@yandex.ru">
+    <a href="mailto:sreutov2008@yandex.ru">
       <img  
         alt="e-mail"
         width="28px"
         src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
       />
     </a>
-    <a href="https://t.me/mikushnerev">
+    <a href="https://t.me/sreutov2008">
       <img
         alt="telegram"
         width="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
       />
     </a>
-    
-    <img
-      title="8-(981)-788-68-65"
-      width="28px"
-      alt="Phone"
-      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
-    >
+
   </ul>
