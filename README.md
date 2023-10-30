@@ -39,26 +39,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
       />
     </a>
-    <a href="https://wa.me/79817886865">
-      <img
-        alt="WhatsApp"
-        width="28px"
-        src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"
-      />
-    <a href="https://vk.com/killermuxa">
-      <img 
-        alt="vk"
-        width="26px"
-        src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
-      />
-    </a>
-    <!-- <a href="https://discordapp.com/users/282964963335602177">
-      <img
-        alt="Discord"
-        width="28px"
-        src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"
-      />
-    </a> -->
+    
     <img
       title="8-(981)-788-68-65"
       width="28px"
