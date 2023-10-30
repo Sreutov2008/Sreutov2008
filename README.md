@@ -1,27 +1,28 @@
-<h1 align="center">Привет! Меня зовут <a href="https://github.com/sreutov2008/" target="_blank">Александр</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
-<!--<p><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Я+изучаю+Python+и+C%2B%2B+в+Яндекс+Практикуме;Приятно+тебя+видеть+тут%2C+заглядывай+еще!" alt="I am a student of the Yandex School of Python and C++. Nice to see you here, thank you!" /></p></h1>-->
+<h1 align="center">
+  Здравствуйте, меня зовут <a href="https://t.me/sreutov2008">Aлександр</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <br><br>
+  Добро пожаловать в мой профиль
+</h1>
 
-## 🔧 Техногии & Инструменты
+## 🔧 **Техногии & Инструменты**
 
-[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
-[![С++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6aa6f8)](https://isocpp.org/)
-[![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)](https://www.djangoproject.com/)
-![DjangoREST](https://img.shields.io/badge/REST-Django-ff1709?style=flat&logo=django&logoColor=white&color=6aa6f8&labelColor=gray)
-[![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6aa6f8)](https://palletsprojects.com/p/flask/)
-[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/Skill-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/Skill-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/Skill-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)](https://www.sqlite.org/index.html)
-[![Nginx](https://img.shields.io/badge/Skill-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=6aa6f8)](https://www.nginx.com/)
-[![Docker](https://img.shields.io/badge/Skill-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)](https://www.docker.com/)
-[![HTML](https://img.shields.io/badge/Skill-HTML-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/Skill-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)](https://www.w3.org/Style/CSS/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---  
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)]()
-[![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/pycharm/)
-
-## ✏️ Контакты:
+## ✏️ **Контакты:**
 
 <br />
   <ul>
